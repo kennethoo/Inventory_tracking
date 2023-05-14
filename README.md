@@ -1,4 +1,4 @@
-# shopifyChallenge
+# Inventory tracking
 This application is an inventory tracking web application that has a basic front end in React and a backend in Node.js.
 You can add an inventory and select a warehouse where the inventory is located. You can create, update, and delete an inventory.
 The inventory can be any product; shoes, headphones, laptops, phones, etc. 
